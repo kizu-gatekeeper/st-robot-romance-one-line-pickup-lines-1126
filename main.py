@@ -7,7 +7,7 @@ $MAKEFUN_OUTPUT_DIR/entry.txt (default /output), with no trailing newline.
 import os
 
 MAX_CHARS = 200
-LINE = "Are you a software update? Because every time you appear, I stop everything I'm doing and just stare, hoping you'll change me."
+LINE = "Are you a software update? Because every time you appear, I drop everything, restart my whole personality, and hope you'll change me."
 
 
 def write_entry(out_dir):
